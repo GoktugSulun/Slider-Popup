@@ -1,0 +1,49 @@
+{
+   "datas": [
+      {
+         "name": "CORI",
+         "surname": "CAUSER",
+         "department": "FRONTEND DEVELOPER"
+      },
+      {
+         "name": "INIGO",
+         "surname": "MINETT",
+         "department": "AI DEVELOPER"
+      },
+      {
+         "name": "DORINE",
+         "surname": "GEORGE",
+         "department": "MATHEMATMATICIAN"
+      },
+      {
+         "name": "MORIAH",
+         "surname": "SEABROOK",
+         "department": "DOCTOR"
+      },
+      {
+         "name": "IRVIN",
+         "surname": "WARWICK",
+         "department": "VET"
+      },
+      {
+         "name": "FLOSSIE",
+         "surname": "NILES",
+         "department": "GAME DEVELOPER"
+      },
+      {
+         "name": "ORINDA",
+         "surname": "BYRD",
+         "department": "BACKEND DEVELOPER"
+      },
+      {
+         "name": "VELMA",
+         "surname": "BARR",
+         "department": "DIGITAL MARKETING"
+      },
+      {
+         "name": "CHARISMA",
+         "surname": "HARLAN",
+         "department": "DIGITAL MARKETING"
+      }
+   ]
+}
